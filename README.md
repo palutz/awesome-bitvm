@@ -7,7 +7,7 @@
 
 > A curated list of resources around  BitVM
 
-**Contributions are welcome**
+**Contributions are welcome and PRs**
 
 ## About
 
